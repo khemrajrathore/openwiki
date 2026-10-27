@@ -1,7 +1,7 @@
 import { isValidModelId, normalizeModelId } from "./constants.js";       
 import type { OpenWikiCommand } from "./agent/types.js";      
   
-export type HelpRow = {
+export type HelpRow = { 
   label: string; 
   description: string;
 };
