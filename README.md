@@ -1,4 +1,4 @@
-# OpenWiki
+# OpenWiki 
 
 OpenWiki is a CLI that writes and maintains documentation for your codebase, built specifically for agents.
 
